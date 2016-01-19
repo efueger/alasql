@@ -1,5 +1,5 @@
 
-test change -- branch name
+test change -- branch name (new-branch-name)
 # Javascript SQL database library for both relational data and graph manipulation
 
 [![bitHound Score](https://www.bithound.io/github/agershun/alasql/badges/score.svg)](https://www.bithound.io/github/agershun/alasql)
